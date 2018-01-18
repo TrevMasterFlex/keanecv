@@ -1,0 +1,37 @@
+#landing_area{
+	height: 100vh;
+	width: 100vw;
+    background-image:    url(computer_vision.jpg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+/*#testimonials{
+	height: 100vh;
+	width: 100vw;
+    background-image:    url(computer_vision.jpg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}*/
+
+#kvc_email_container{
+	display: inline-block;
+	width: 800px;
+	height: 110px;
+	margin-top: calc(25vh);
+	margin-left: calc(50vw - 400px);
+	background: black;
+	color: #54ff54;
+	text-align: center;
+	font-family: "Ubuntu Mono";
+}
+
+#kcv{
+	font-size: 75px;
+}
+
+#email{
+	font-size: 25px;
+}

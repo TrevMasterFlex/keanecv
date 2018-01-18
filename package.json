@@ -1,0 +1,22 @@
+{
+  "name": "keanecv",
+  "version": "1.0.0",
+  "description": "Keane Computer Vision Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrevMasterFlex/keanecv.git"
+  },
+  "author": "Trevor Keane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrevMasterFlex/keanecv/issues"
+  },
+  "homepage": "https://github.com/TrevMasterFlex/keanecv#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
