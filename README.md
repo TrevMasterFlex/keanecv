@@ -4,6 +4,7 @@ Keane Computer Vision Website
 npm init
 sudo npm install express --save --no-bin-links
 
+ssh -i "keane_computer_vision_website.pem" ubuntu@ec2-52-90-86-190.compute-1.amazonaws.com
 change /etc/nginx/sites-enabled/default port to:
 
 server {
