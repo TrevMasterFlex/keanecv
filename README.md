@@ -18,4 +18,4 @@ nohup node index.js &
 jobs -l
 kill _________
 
-sudo apt-get install git
+sudo apt-get install git -y
