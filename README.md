@@ -17,3 +17,5 @@ service nginx restart
 nohup node index.js &
 jobs -l
 kill _________
+
+sudo apt-get install git
